@@ -153,3 +153,5 @@ cython_debug/
 
 # CMake
 **/cmake-build-debug/
+
+/raw
